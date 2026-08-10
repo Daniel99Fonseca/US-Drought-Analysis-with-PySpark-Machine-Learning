@@ -44,3 +44,4 @@ US_Droughts/
 ## Academic Context
 
 Developed as part of a **Big Data Processing** project at **ISCTE – University Institute of Lisbon**.
+Grade: 17/20
